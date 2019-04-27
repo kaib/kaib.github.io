@@ -1,6 +1,5 @@
 
 # Skatclub ContraBeet Regelbuch
-[TOC]
 
 ## Aktuelle Mitglieder 
 ##### Präsident
