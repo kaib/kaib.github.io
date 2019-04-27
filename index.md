@@ -85,3 +85,5 @@ Dafür werden etwaige Ausflüge aus der Kasse bezahlt. Hier sind aktive und pass
 * Amtszeit beträgt 1 Jahr
 * Kümmert sich um Planung von Weihnachsfeier und Ausfahrt
 * Kümmert sich um Termine für neue Skatrunden
+
+![bockramsch](bockramsch.jpg "bockramsch")
