@@ -10,14 +10,14 @@
 * Borsti
 * Arne
 * Chrissy
+* Knacki
 
 ##### Passiv
-* Knacki
 * Andrew
 * Sören
-* Malte
 
 ## Historie
+* 24.01.2020: Knacki neues aktives Mitglied, Malte kein Mitglied mehr
 * Gründung am 05.09.2009
 * Erster Präsident Chrissy
 
